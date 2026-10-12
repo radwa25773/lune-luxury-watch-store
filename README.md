@@ -29,4 +29,4 @@ The design uses a black and gold color palette to communicate luxury and timeles
 Radwa Mohamed
 
 ## Prototype
-[View the Figma Prototype](ADD_YOUR_FIGMA_PROTOTYPE_LINK_HERE)
+[View the Figma Prototype](https://www.figma.com/design/ve2CJMsVSspUafEQXL43qR/figma-new-ui?node-id=69-95\&t=iR85t0pyxDMyGUEn-1)
